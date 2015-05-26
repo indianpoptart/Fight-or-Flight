@@ -5,13 +5,7 @@ It's the middle of the summer. You are going on a camping trip with your family 
 This game runs on the Unreal Engine 4
 
 Game Progress:
--Functional Main Menu Added
 
--Functional Pause Menu
-
--Map base
-
--Ambience Added
 
 -Creature creation started
 
