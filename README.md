@@ -1,4 +1,4 @@
-# Fight-or-Flight
+# Fight or Flight
 
 It's the middle of the summer. You are going on a camping trip with your family when you hit something that sends your car out of control, causing you to crash and causing  you to become unconscious. You briefly awaken to catch a glimpse of the beast dragging away your wife. You awaken to see your family missing. Are you going to get your revenge, or are you going to try to find your way back to safety?
 
